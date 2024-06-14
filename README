@@ -1,0 +1,21 @@
+This is README file for Algorithm PA#3
+Author: <B11901132>
+Date: 2024/05/11
+=====
+SYNOPSIS:
+
+cb <input_file> <output_file>
+=====
+DIRECTORY:
+
+bin/	  executable binary
+doc/	  reports
+src/ 	  source C++ codes
+======
+HOW TO COMPILE:
+    under <b11901132_pa3>
+	make
+======
+HOW TO RUN:
+	under <b11901132_pa3>
+	./bin/cb inputs/<input_file> outputs/<output_file>
