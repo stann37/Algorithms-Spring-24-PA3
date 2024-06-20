@@ -20,6 +20,3 @@ For each type of graph, the approach varies due to computational complexity:
 - Reverse Kruskal
 3. **Weighted Directed Graphs**
 - Approximation algorithm: Handle the graph as if it is undirected, then add non-negative edges back to the graph in a descending order of edge weight if it does not introduce cycles.
-
-## Disclaimer
-This code is not guaranteed to earn full credit.
